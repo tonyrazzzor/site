@@ -249,6 +249,7 @@ header a {
   .gallery img:nth-child(2),
   .gallery img:nth-child(3) {
     width: 100%;
+    height: 100%;
     margin-bottom: 20px;
   }
   .gallery {
